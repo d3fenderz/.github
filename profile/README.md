@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola
 
 * 🙋‍ This org is all about training and sharing tricks, for free.
 * 🔌 Meaningful contributions are welcome.
